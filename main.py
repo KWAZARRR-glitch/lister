@@ -78,7 +78,7 @@ def format_list_as_table(items):
 class ListApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Создание пользовательского списка - с выбором формата вывода")
+        self.root.title("lister-your bro")
         self.root.geometry("750x650")
 
         # Создаём основной контейнер с прокруткой
